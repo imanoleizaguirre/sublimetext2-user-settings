@@ -41,7 +41,6 @@ Read [Package Control][] page for details about how to install it and other poss
 - EditorConfig
 - Dotfiles Syntax Highlighting
 - AutoFileName
-- SublimeTODO
 
 
 ### Version Control
@@ -54,8 +53,6 @@ Read [Package Control][] page for details about how to install it and other poss
 
 ### Code intelligence
 
-- [CTags][]
-- [SublimeClang][]
 - [SublimeCodeIntel][]
 - [SublimeLinter][]
 - [sublime-ToggleQuotes][]
@@ -108,9 +105,6 @@ Read [Package Control][] page for details about how to install it and other poss
 [AAAPackageDev]: https://github.com/SublimeText/AAAPackageDev "Tools for creation of snippets, syntax definitions, etc."
 [SublimeCodeIntel]: https://github.com/Kronuz/SublimeCodeIntel "Full-featured code intelligence and smart autocomplete engine"
 [SublimeLinter]: https://github.com/Kronuz/SublimeLinter "Inline lint highlighting for the Sublime Text 2 editor"
-[Rake]: https://github.com/SublimeText/Rake "Sublime Text 2 plugin for Ruby Rake"
-[CTags]: https://github.com/SublimeText/CTags "CTags support for Sublime Text 2"
-[SublimeClang]: https://github.com/quarnster/SublimeClang "C/C++/ObjC/ObjC++ autocompletions and code navigation"
 [SCSS]: https://github.com/kuroir/SCSS.tmbundle "The TextMate SCSS Official Bundle."
 [git plugin]: https://github.com/kemayo/sublime-text-2-git/wiki  "git plugin by David Lynch"
 [JSDocs]: https://github.com/spadgos/sublime-jsdocs "Makes writing JSDoc and PHPDoc comments easier."

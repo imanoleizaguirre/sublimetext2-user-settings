@@ -25,7 +25,7 @@ Read [Package Control][] page for details about how to install it and other poss
 
 - [Soda Theme][]
 - Theme - Soda
-- Tomorrow Color Schemes
+- [Tomorrow Color Schemes](https://github.com/chriskempson/tomorrow-theme)
 
 
 ## Suggested extensions:
@@ -89,6 +89,11 @@ Read [Package Control][] page for details about how to install it and other poss
 - Jasmine
 - jQuery
 - JsFormat
+
+
+### Python
+
+- [PEP-8 and PyFlakes checker](https://github.com/vorushin/sublimetext_python_checker)
 
 
 ### Databases

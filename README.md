@@ -85,8 +85,6 @@ Read [Package Control][] page for details about how to install it and other poss
 - Pretty JSON
 - Jasmine
 - jQuery
-- JsFormat
-
 
 ### Python
 

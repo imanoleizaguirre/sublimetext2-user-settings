@@ -38,6 +38,7 @@ Read [Package Control][] page for details about how to install it and other poss
 - [AAAPackageDev][]
 - [Emmet][]
 - [WordCount][]
+- [SideBarEnhancements][]
 - EditorConfig
 - Dotfiles Syntax Highlighting
 - AutoFileName

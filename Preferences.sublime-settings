@@ -1,7 +1,10 @@
 {
+	"bold_folder_labels": true,
+	"caret_style": "smooth",
 	"color_scheme": "Packages/Color Scheme - Default/Tomorrow-Night.tmTheme",
 	"detect_slow_plugins": false,
 	"ensure_newline_at_eof_on_save": true,
+	"font_face": "The Sans Mono-",
 	"font_options":
 	[
 		"subpixel_antialias"
@@ -13,6 +16,7 @@
 	[
 		"Vintage"
 	],
+	"match_brackets_angle": true,
 	"menu_visible": true,
 	"rulers":
 	[
@@ -28,8 +32,5 @@
 	"tab_size": 4,
 	"theme": "Soda Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true,
-	"bold_folder_labels": true,
-	"caret_style": "smooth",
-	"match_brackets_angle": true
+	"trim_trailing_white_space_on_save": true
 }

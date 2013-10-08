@@ -43,7 +43,7 @@
     // Word wrapping - follow PEP 8 recommendations
     "rulers": [ 80 ],
     "word_wrap": true,
-    "wrap_width": 80,
+    //"wrap_width": 80,
 
     // Whitespace
     "tab_size": 4,

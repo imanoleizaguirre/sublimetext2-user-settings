@@ -1,77 +1,58 @@
 {
-
-    // Colors
-    "color_scheme": "Packages/Color Scheme - Default/Tomorrow-Night.tmTheme",
-    "theme": "Soda Dark.sublime-theme",
-
-    // Font
-    "font_face": "The Sans Mono-",
-    "font_size": 10.0,
-    "font_options":
-    [
-        "subpixel_antialias",
-        "no_bold"
-    ],
-    "line_padding_bottom": 0,
-    "line_padding_top": 0,
-
-    // Cursor style - no blinking and slightly wider than default
-    "caret_style": "smooth",
-    "wide_caret": true,
-
-    // Editor view look-and-feel
-    //"draw_white_space": "all",
-    "fold_buttons": false,
-    "highlight_line": true,
-    "auto_complete": false,
-    "show_minimap": false,
-    //"bold_folder_labels": true,
-    "show_open_files": true,
-    "show_tabs": true,
-    "side_bar_visible": true,
-    "status_bar_visible": true,
-    "menu_visible": true,
-    "match_brackets_angle": true,
-
-    // Editor behavior
-    "scroll_past_end": false,
-    "highlight_modified_tabs": true,
-    "find_selected_text": true,
-    "save_on_focus_lost": true,
-    "detect_slow_plugins": false,
-
-    // Word wrapping - follow PEP 8 recommendations
-    "rulers": [ 80 ],
-    "word_wrap": true,
-    //"wrap_width": 80,
-
-    // Whitespace
-    "tab_size": 4,
-    "tab_completion": true,
-    "translate_tabs_to_spaces": true,
-    "trim_trailing_white_space_on_save": true,
-    "ensure_newline_at_eof_on_save": true,
-
-    // Sidebar - exclude distracting files and folders
-    "file_exclude_patterns":
-    [
-        ".DS_Store",
-        "*.pid",
-        "*.pyc"
-    ],
-    "folder_exclude_patterns":
-    [
-        ".git",
-        "__pycache__",
-        "env",
-        "env3"
-    ],
-
-    // Packages
-     "ignored_packages":
-    [
-        "Vintage"
-    ]
-
-
+	"auto_complete": false,
+	"caret_style": "smooth",
+	"color_scheme": "Packages/Color Scheme - Default/Tomorrow-Night.tmTheme",
+	"detect_slow_plugins": false,
+	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
+	[
+		".DS_Store",
+		"*.pid",
+		"*.pyc"
+	],
+	"find_selected_text": true,
+	"fold_buttons": false,
+	"folder_exclude_patterns":
+	[
+		".git",
+		"__pycache__",
+		"env",
+		"env3"
+	],
+	"font_face": "The Sans Mono-",
+	"font_options":
+	[
+		"subpixel_antialias",
+		"no_bold"
+	],
+	"font_size": 10,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage",
+		"AAAPackageDev"
+	],
+	"line_padding_bottom": 0,
+	"line_padding_top": 0,
+	"match_brackets_angle": true,
+	"menu_visible": true,
+	"rulers":
+	[
+		80
+	],
+	"save_on_focus_lost": true,
+	"scroll_past_end": false,
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"status_bar_visible": true,
+	"tab_completion": true,
+	"tab_size": 4,
+	"theme": "Soda Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"wide_caret": true,
+	"word_wrap": true
 }
